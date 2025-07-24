@@ -5,8 +5,10 @@ In this repository we provide the source code of the ADABORD method proposed in 
 
 :blue_book: The experiments are implemented in the `experiments.py` file. The remaining files implement the baseline methods used in the experiments.
 
+:blue_book: The experiments are executed on the [TOC-UCO repository](https://github.com/ayrna/tocuco), the largest ordinal classification benchmarking archive to date.
+
 :computer: More about ordinal classification can be found in the [dlordinal package](https://github.com/ayrna/dlordinal), where several ordinal techniques are implemented, together with the most popular ordinal performance metrics.
 
 :books: If you enjoyed this repository, we would appretiate a citation for the following work:
-If you enjoyed this framework, we would appretiate a citation for the following work:
+
 *incoming*
